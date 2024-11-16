@@ -14,4 +14,4 @@ for i in range(long_contrasena):
     number = random.randint(0, len(caracters)-1)
     contrasena = contrasena + caracters[number]
 
-print("Esta es tu contraseña nueva:" + contrasena)
+print("Esta es tu contraseña nueva:   "+ contrasena)
